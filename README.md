@@ -18,8 +18,6 @@ Create two objects. One without arguments & the other with arguments
 ### Step 6:
 Check whether the objects are equal or not using if-else condition
 
-</br> </br> </br> </br></br> </br>
- 
  ## Program:
  Developed By: **Nithishkumar P**
  </br>
@@ -69,8 +67,7 @@ namespace OperatorOverloading
 }
  ```
  
- </br>
- 
+
  
  ## Output:
 ![image](https://github.com/ramjan1729/Open-Jacson-Networks/assets/93427017/3bc4f89a-83c7-40ea-97c9-41646e146c66)
